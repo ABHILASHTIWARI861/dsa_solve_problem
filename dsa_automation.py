@@ -9,8 +9,8 @@ from datetime import datetime
 REPO_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # You may need to update this path to your actual source directory
-SOURCE_DIR = r"C:\Users\kumar\OneDrive\Desktop\Striver-s-SDE-Sheet-Solution-main (2)\Striver-s-SDE-Sheet-Solution-main\Striver-s-SDE-Sheet-Solution-main"
-GIT_REMOTE = "https://github.com/aksghgf/Striver_SDE.git"
+SOURCE_DIR = os.path.join(REPO_DIR, "Source_Files")
+GIT_REMOTE = "https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git"
 
 def git_command(args, cwd=REPO_DIR):
     try:
@@ -38,7 +38,7 @@ def main():
     dest_files = []
     for f in os.listdir(REPO_DIR):
         if f.endswith(".cpp"):
-            dest_files.append(f[:-4]) # Remove .cpp
+            dest_files.append(f)
     
     # Find candidates
     candidates = [f for f in source_files if f not in dest_files and f != "README.md"]
@@ -51,7 +51,7 @@ def main():
     file_to_push = random.choice(candidates)
     
     src_path = os.path.join(SOURCE_DIR, file_to_push)
-    dest_path = os.path.join(REPO_DIR, f"{file_to_push}.cpp")
+    dest_path = os.path.join(REPO_DIR, file_to_push)
     
     print(f"Copying {file_to_push} to {dest_path}...")
     shutil.copy2(src_path, dest_path)
