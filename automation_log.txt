@@ -12,3 +12,10 @@ Git command commit -m Add solution for Longest Palindromic Substring.cpp - 2026-
  create mode 100644 Longest Palindromic Substring.cpp
 Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
 Git command push origin main success: 
+Copying Maximum XOR With an Element From Array.cpp to C:\Users\LENOVO\Downloads\DSA-Practice (1)\DSA-Practice\DSA-Practice\Maximum XOR With an Element From Array.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Maximum XOR With an Element From Array.cpp - 2026-05-14 03:06:11 success: [main b4332da] Add solution for Maximum XOR With an Element From Array.cpp - 2026-05-14 03:06:11
+ 2 files changed, 75 insertions(+)
+ create mode 100644 Maximum XOR With an Element From Array.cpp
+Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
+Git command push origin main success: 
