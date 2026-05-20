@@ -40,3 +40,10 @@ Git command commit -m Add solution for Reverse Linked List.cpp - 2026-05-18 21:5
  create mode 100644 Reverse Linked List.cpp
 Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
 Git command push origin main success: 
+Copying Merge Intervals.cpp to C:\Users\LENOVO\Downloads\DSA-Practice (1)\DSA-Practice\DSA-Practice\Merge Intervals.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Merge Intervals.cpp - 2026-05-19 21:51:39 success: [main 4362b37] Add solution for Merge Intervals.cpp - 2026-05-19 21:51:39
+ 2 files changed, 30 insertions(+)
+ create mode 100644 Merge Intervals.cpp
+Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
+Git command push origin main success: 
