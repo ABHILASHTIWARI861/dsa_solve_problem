@@ -145,3 +145,10 @@ Git command commit -m Add solution for Maximum XOR of Two Numbers in an Array.cp
  create mode 100644 Maximum XOR of Two Numbers in an Array.cpp
 Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
 Git command push origin main success: 
+Copying Valid Sudoku.cpp to C:\Users\LENOVO\Downloads\DSA-Practice (1)\DSA-Practice\DSA-Practice\Valid Sudoku.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Valid Sudoku.cpp - 2026-06-06 21:51:39 success: [main 12d8314] Add solution for Valid Sudoku.cpp - 2026-06-06 21:51:39
+ 2 files changed, 40 insertions(+)
+ create mode 100644 Valid Sudoku.cpp
+Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
+Git command push origin main success: 
