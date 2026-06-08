@@ -152,3 +152,10 @@ Git command commit -m Add solution for Valid Sudoku.cpp - 2026-06-06 21:51:39 su
  create mode 100644 Valid Sudoku.cpp
 Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
 Git command push origin main success: 
+Copying LFU Cache.cpp to C:\Users\LENOVO\Downloads\DSA-Practice (1)\DSA-Practice\DSA-Practice\LFU Cache.cpp...
+Git command add . success: 
+Git command commit -m Add solution for LFU Cache.cpp - 2026-06-07 22:58:14 success: [main e98e7d0] Add solution for LFU Cache.cpp - 2026-06-07 22:58:14
+ 2 files changed, 134 insertions(+)
+ create mode 100644 LFU Cache.cpp
+Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
+Git command push origin main success: 
