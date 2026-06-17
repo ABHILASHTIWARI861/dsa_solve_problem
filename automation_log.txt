@@ -194,3 +194,10 @@ Git command commit -m Add solution for Merge K Sorted Arrays.cpp - 2026-06-15 22
  create mode 100644 Merge K Sorted Arrays.cpp
 Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
 Git command push origin main success: 
+Copying Missing and repeating numbers.cpp to C:\Users\LENOVO\Downloads\DSA-Practice (1)\DSA-Practice\DSA-Practice\Missing and repeating numbers.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Missing and repeating numbers.cpp - 2026-06-16 21:51:39 success: [main 6bb4cbd] Add solution for Missing and repeating numbers.cpp - 2026-06-16 21:51:39
+ 2 files changed, 32 insertions(+)
+ create mode 100644 Missing and repeating numbers.cpp
+Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
+Git command push origin main success: 
