@@ -222,4 +222,11 @@ Git command commit -m Add solution for Implement a Queue.cpp - 2026-06-20 21:51:
  create mode 100644 Implement a Queue.cpp
 Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
 Git command push origin main failed: 
+^CCopying Count Subarrays with Given XOR.cpp to C:\Users\LENOVO\Downloads\DSA-Practice (1)\DSA-Practice\DSA-Practice\Count Subarrays with Given XOR.cpp...
+Git command add . success: 
+Git command commit -m Add solution for Count Subarrays with Given XOR.cpp - 2026-06-21 21:51:40 success: [main 1084975] Add solution for Count Subarrays with Given XOR.cpp - 2026-06-21 21:51:40
+ 2 files changed, 29 insertions(+)
+ create mode 100644 Count Subarrays with Given XOR.cpp
+Git command remote set-url origin https://github.com/ABHILASHTIWARI861/dsa_solve_problem.git success: 
+Git command push origin main failed: 
 ^C
